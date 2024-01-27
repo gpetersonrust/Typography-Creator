@@ -1,0 +1,17 @@
+{
+  "name": "Typography Builder",
+  "id": "1332711725592178947",
+  "api": "1.0.0",
+  "main": "./dist/code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma"
+  ],
+  "ui": "ui.html",
+  "networkAccess": {
+    "allowedDomains": [
+      "none"
+    ]
+  }
+}
